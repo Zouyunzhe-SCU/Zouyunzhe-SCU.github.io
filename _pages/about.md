@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "邹耘喆 - 一个医学图像方向的BME研究生"
+title: "邹耘喆 (Yunzhe Zou)"
+subtitle: "一个医学图像方向的 BME 研究生 | “等一场大雪”"
 author_profile: true
 redirect_from: 
   - /about/
