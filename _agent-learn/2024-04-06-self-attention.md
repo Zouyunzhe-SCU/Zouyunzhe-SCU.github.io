@@ -1,6 +1,8 @@
 ---
 title: "自注意力机制（Self-Attention）从零开始理解"
 collection: agent-learn
+layout: single
+author_profile: true
 permalink: /agent-learn/self-attention-explained
 date: 2024-04-06
 tags:
@@ -8,6 +10,9 @@ tags:
   - DeepLearning
   - Attention
 excerpt: '深入浅出讲解 Self-Attention 的核心概念、数学原理、与传统卷积的对比，以及在图像、文本中的应用。'
+read_time: true
+share: true
+comments: true
 ---
 
 ## 什么是 Self-Attention？

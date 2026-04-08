@@ -1,6 +1,8 @@
 ---
 title: "Vision Transformer (ViT) 详解"
 collection: agent-learn
+layout: single
+author_profile: true
 permalink: /agent-learn/vision-transformer-explained
 date: 2024-04-08
 tags:
@@ -8,6 +10,9 @@ tags:
   - DeepLearning
   - Transformer
 excerpt: '从零开始理解Vision Transformer的架构原理、自注意力机制在图像领域的应用，以及相比CNN的优势。'
+read_time: true
+share: true
+comments: true
 ---
 
 ## Vision Transformer 概述

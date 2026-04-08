@@ -1,13 +1,18 @@
 ---
 title: "U-Net 医学图像分割网络原理与实现"
 collection: agent-learn
+layout: single
+author_profile: true
 permalink: /agent-learn/unet-medical-segmentation
 date: 2024-04-07
 tags:
   - MedicalImaging
   - SemanticSegmentation
   - DeepLearning
-excerpt: '详解U-Net网络如何通过跳跃连接和编码器-解码器结构在医学图像分割任务中取得优异性能，包含完整代码实现。'
+excerpt: '详解U-Net网络如何通过跳跃连接和编码器-解码器结构在医学图像分割任务中取得优异成能，包含完整仃码实现。'
+read_time: true
+share: true
+comments: true
 ---
 
 ## U-Net 网络简介

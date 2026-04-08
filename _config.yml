@@ -284,6 +284,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _agent-learn
+  - scope:
+      path: ""
+      type: agent-learn
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      comments: true
 
 
 # Sass/SCSS
