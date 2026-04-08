@@ -1,11 +1,11 @@
 # Simplified navigation for academic website
-# Main modules: Publications, Agent-Learn, Blog Posts
+# Main modules: Publications, Learn Note, Blog Posts
 
 main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Agent-Learn"
+  - title: "Learn Note"
     url: /agent-learn/
         
   - title: "Blog Posts"
