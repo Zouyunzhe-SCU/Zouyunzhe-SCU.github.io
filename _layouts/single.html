@@ -26,6 +26,12 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
+          <!-- Back Button -->
+          <p style="margin-bottom: 0.5em;">
+            <a href="javascript:history.back()" style="color: #0066cc; text-decoration: none; font-size: 14px;">
+              <i class="fa fa-arrow-left" aria-hidden="true"></i> 返回
+            </a>
+          </p>
           {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
