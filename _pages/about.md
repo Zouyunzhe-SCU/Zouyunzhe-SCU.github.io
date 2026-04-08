@@ -22,8 +22,8 @@ Currently, I am honored to work under the guidance of Prof. Zhang Jing in the Me
 
 ## Education
 
-- **M.S. in Electronic Information - Biomedical Engineering**, Sichuan University (2022-Present)
-- **B.S. in Medical Informatics Engineering**, [Sichuan University College of Biomedical Engineering](https://bme.scu.edu.cn/)
+- **M.S. in Electronic Information - Biomedical Engineering**, Sichuan University  (2026–2029)
+- **B.S. in Medical Informatics Engineering**, [Sichuan University College of Biomedical Engineering](https://bme.scu.edu.cn/)(2022–2026)
 
 ## Contact
 
