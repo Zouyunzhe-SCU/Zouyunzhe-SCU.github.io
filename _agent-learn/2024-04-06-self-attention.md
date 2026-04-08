@@ -10,7 +10,7 @@ tags:
   - DeepLearning
   - Attention
 excerpt: '深入浅出讲解 Self-Attention 的核心概念、数学原理、与传统卷积的对比，以及在图像、文本中的应用。'
-read_time: 9
+read_time: 9 min
 share: true
 comments: true
 ---
