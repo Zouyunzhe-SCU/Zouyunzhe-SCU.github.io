@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "邹耘喆 (Yunzhe Zou) | 等一场大雪"
+title: "邹耘喆 (Yunzhe Zou)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+> *“等一场大雪”*
 
 ## About Me
 
