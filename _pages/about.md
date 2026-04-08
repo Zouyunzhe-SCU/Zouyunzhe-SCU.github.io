@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "邹耘喆 (Yunzhe Zou)"
-excerpt: "医学图像方向研究生 | 等一场大雪"
+title: "邹耘喆 (Yunzhe Zou) | 等一场大雪"
 author_profile: true
 redirect_from: 
   - /about/
