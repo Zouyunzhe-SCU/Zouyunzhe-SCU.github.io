@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Master's student in Electronic Information - Biomedical Engineering at [Sichuan University](https://www.scu.edu.cn/), with a strong academic foundation from the [College of Biomedical Engineering](https://bme.scu.edu.cn/). I graduated from the Medical Informatics Engineering program and now focus on **computer vision**, **medical image processing**, and **multimodal medical large models**.
 
-Currently, I am honored to work under the guidance of Prof. Zhang Jin in the Medical Image Processing Laboratory at [Sichuan University's College of Biomedical Engineering](https://bme.scu.edu.cn/). My research bridges the intersection of biomedical engineering and advanced computational techniques to address real-world medical challenges.
+Currently, I am honored to work under the guidance of Prof. Zhang Jing in the Medical Image Processing Laboratory at [Sichuan University's College of Biomedical Engineering](https://bme.scu.edu.cn/). My research bridges the intersection of biomedical engineering and advanced computational techniques to address real-world medical challenges.
 
 ## Research Interests
 
