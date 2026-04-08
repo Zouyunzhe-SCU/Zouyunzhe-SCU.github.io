@@ -1,7 +1,7 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Future Blog Post 模板'
+date: 2026-04-08
+permalink: /posts/模板
 tags:
   - cool posts
   - category1
