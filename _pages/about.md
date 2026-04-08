@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "邹耘喆 - 医学图像处理研究"
+title: "邹耘喆 - 一个医学图像方向的BME研究生"
 author_profile: true
 redirect_from: 
   - /about/
