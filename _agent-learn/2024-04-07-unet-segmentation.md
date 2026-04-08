@@ -10,7 +10,7 @@ tags:
   - SemanticSegmentation
   - DeepLearning
 excerpt: '详解U-Net网络如何通过跳跃连接和编码器-解码器结构在医学图像分割任务中取得优异成能，包含完整仃码实现。'
-read_time: true
+read_time: 9 min
 share: true
 comments: true
 ---
